@@ -1,0 +1,1184 @@
+# depslib dependency file v1.0
+1205091474 source:c:\documents and settings\claverie paul\bureau\projet\bn\main.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_platform.h
+
+1199052374 c:\sdl-1.2.13\include\sdl\begin_code.h
+
+1199052374 c:\sdl-1.2.13\include\sdl\close_code.h
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_keysym.h
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1199052374 c:\sdl-1.2.13\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1205091888 source:c:\documents and settings\claverie paul\bureau\projet\bn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+
+1211276702 source:c:\documents and settings\claverie paul\bureau\bataille navale\main.c
+	"main.h"
+
+1206810658 source:c:\users\pimac\desktop\bataille navale\main.c
+	"main.h"
+
+1205513919 c:\users\pimac\desktop\bataille navale\sprite.h
+	<SDL/SDL.h>
+
+1206695970 c:\users\pimac\desktop\bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1206798992 source:c:\users\pimac\desktop\bataille navale\menu.c
+	"menu.h"
+
+1210970670 source:c:\documents and settings\claverie paul\bureau\bataille navale\menu.c
+	"menu.h"
+
+1211139362 c:\documents and settings\claverie paul\bureau\bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1205693188 c:\documents and settings\claverie paul\bureau\bataille navale\sprite.h
+	<stdbool.h>
+	<SDL/SDL.h>
+
+1205513878 source:c:\documents and settings\claverie paul\bureau\bataille navale\sprite.c
+	"sprite.h"
+
+1211140200 c:\documents and settings\claverie paul\bureau\bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1210970522 source:c:\documents and settings\claverie paul\bureau\bataille navale\sprites.c
+	"sprites.h"
+
+1207069994 c:\documents and settings\claverie paul\bureau\bataille navale\types.h
+
+1210007554 source:c:\documents and settings\claverie paul\bureau\bataille navale\historic.c
+	"historic.h"
+
+1210372072 c:\documents and settings\claverie paul\bureau\bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1211276572 c:\documents and settings\claverie paul\bureau\bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_ia.h"
+
+1210945354 c:\documents and settings\claverie paul\bureau\bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+
+1206484394 c:\documents and settings\claverie paul\bureau\bataille navale\video.h
+	"main.h"
+
+1210969568 source:c:\documents and settings\claverie paul\bureau\bataille navale\grid.c
+	"grid.h"
+
+1206484964 source:c:\documents and settings\claverie paul\bureau\bataille navale\video.c
+	"video.h"
+
+1206643136 source:c:\users\pimac\desktop\bataille navale\grid.c
+	"grid.h"
+
+1206645888 c:\users\pimac\desktop\bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+
+1206694446 c:\users\pimac\desktop\bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_menu.h"
+
+1206696050 c:\users\pimac\desktop\bataille navale\types.h
+
+1206799728 c:\users\pimac\desktop\bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1206298307 c:\users\pimac\desktop\bataille navale\video.h
+	"main.h"
+
+1205867922 c:\users\pimac\desktop\bataille navale\historic.h
+	"main.h"
+
+1205749692 source:c:\users\pimac\desktop\bataille navale\historic.c
+	"historic.h"
+
+1206298307 source:c:\users\pimac\desktop\bataille navale\video.c
+	"video.h"
+
+1206696078 c:\users\pimac\desktop\bataille navale\error.h
+	<SDL/SDL.h>
+
+1206799697 source:c:\users\pimac\desktop\bataille navale\sprites.c
+	"sprites.h"
+
+1206696532 source:c:\users\pimac\desktop\bataille navale\error.c
+	"error.h"
+
+1206696082 c:\users\pimac\desktop\bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1206696524 source:c:\users\pimac\desktop\bataille navale\rand.c
+	"rand.h"
+
+1206699678 c:\documents and settings\claverie paul\bureau\bataille navale\error.h
+	<SDL/SDL.h>
+
+1208973180 c:\documents and settings\claverie paul\bureau\bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1206700124 source:c:\documents and settings\claverie paul\bureau\bataille navale\rand.c
+	"rand.h"
+
+1206700132 source:c:\documents and settings\claverie paul\bureau\bataille navale\error.c
+	"error.h"
+
+1206634432 c:\documents and settings\claverie paul\bureau\bataille navale\menu_jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"video.h"
+
+1206986152 c:\documents and settings\claverie paul\bureau\bataille navale\game_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"sdl_tool.h"
+
+1206992880 source:c:\documents and settings\claverie paul\bureau\bataille navale\game_menu.c
+	"game_menu.h"
+
+1211140494 c:\documents and settings\claverie paul\bureau\bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"config.h"
+	"grid.h"
+	"error.h"
+
+1211143748 c:\documents and settings\claverie paul\bureau\bataille navale\window.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"config.h"
+	"sdl_tool.h"
+	"grid.h"
+	"sprites.h"
+	"menu.h"
+	"error.h"
+
+1208277648 source:c:\documents and settings\claverie paul\bureau\bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1211143754 source:c:\documents and settings\claverie paul\bureau\bataille navale\window.c
+	"window.h"
+
+1206809922 source:c:\users\pimac\desktop\bataille navale\game_menu.c
+	"game_menu.h"
+
+1206813837 c:\users\pimac\desktop\bataille navale\game_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"sdl_tool.h"
+
+1206650366 c:\users\pimac\desktop\bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"grid.h"
+	"error.h"
+
+1206650728 c:\users\pimac\desktop\bataille navale\window.h
+	"sdl_tool.h"
+
+1206650722 source:c:\users\pimac\desktop\bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1206650574 source:c:\users\pimac\desktop\bataille navale\window.c
+	"window.h"
+
+1206700132 source:e:\bureau\copie de bataille navale\error.c
+	"error.h"
+
+1206699678 e:\bureau\copie de bataille navale\error.h
+	<SDL/SDL.h>
+
+1206992880 source:e:\bureau\copie de bataille navale\game_menu.c
+	"game_menu.h"
+
+1206986152 e:\bureau\copie de bataille navale\game_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"sdl_tool.h"
+
+1206897298 e:\bureau\copie de bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1206699682 e:\bureau\copie de bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1207069994 e:\bureau\copie de bataille navale\types.h
+
+1208277658 e:\bureau\copie de bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"window.h"
+	"grid.h"
+	"error.h"
+
+1206908674 e:\bureau\copie de bataille navale\window.h
+	"sdl_tool.h"
+	"grid.h"
+
+1206834866 e:\bureau\copie de bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+
+1206897276 e:\bureau\copie de bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1206834866 source:e:\bureau\copie de bataille navale\grid.c
+	"grid.h"
+
+1208287424 source:e:\bureau\copie de bataille navale\historic.c
+	"historic.h"
+
+1208287222 e:\bureau\copie de bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+
+1206698046 e:\bureau\copie de bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_menu.h"
+
+1208287424 source:e:\bureau\copie de bataille navale\main.c
+	"main.h"
+
+1206947914 source:e:\bureau\copie de bataille navale\menu.c
+	"menu.h"
+
+1206700124 source:e:\bureau\copie de bataille navale\rand.c
+	"rand.h"
+
+1206947020 source:e:\bureau\copie de bataille navale\sprites.c
+	"sprites.h"
+
+1208278058 source:e:\bureau\copie de bataille navale\window.c
+	"window.h"
+
+1208277648 source:e:\bureau\copie de bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1208276526 source:e:\bureau\copie de bataille navale\object.c
+
+1206700132 source:g:\docs\copie de bataille navale\error.c
+	"error.h"
+
+1206699678 g:\docs\copie de bataille navale\error.h
+	<SDL/SDL.h>
+
+1206992880 source:g:\docs\copie de bataille navale\game_menu.c
+	"game_menu.h"
+
+1206986152 g:\docs\copie de bataille navale\game_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"sdl_tool.h"
+
+1206897298 g:\docs\copie de bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1206699682 g:\docs\copie de bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1207069994 g:\docs\copie de bataille navale\types.h
+
+1208277658 g:\docs\copie de bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"window.h"
+	"grid.h"
+	"error.h"
+
+1206908674 g:\docs\copie de bataille navale\window.h
+	"sdl_tool.h"
+	"grid.h"
+
+1206834866 g:\docs\copie de bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+
+1206897276 g:\docs\copie de bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1206834866 source:g:\docs\copie de bataille navale\grid.c
+	"grid.h"
+
+1208287668 source:g:\docs\copie de bataille navale\historic.c
+	"historic.h"
+
+1208287222 g:\docs\copie de bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+
+1208287590 source:g:\docs\copie de bataille navale\main.c
+	"main.h"
+
+1206698046 g:\docs\copie de bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_menu.h"
+
+1206947914 source:g:\docs\copie de bataille navale\menu.c
+	"menu.h"
+
+1208276526 source:g:\docs\copie de bataille navale\object.c
+
+1206700124 source:g:\docs\copie de bataille navale\rand.c
+	"rand.h"
+
+1208277648 source:g:\docs\copie de bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1206947020 source:g:\docs\copie de bataille navale\sprites.c
+	"sprites.h"
+
+1208278058 source:g:\docs\copie de bataille navale\window.c
+	"window.h"
+
+1206700132 source:g:\copie de bataille navale\error.c
+	"error.h"
+
+1206699678 g:\copie de bataille navale\error.h
+	<SDL/SDL.h>
+
+1206992880 source:g:\copie de bataille navale\game_menu.c
+	"game_menu.h"
+
+1206986152 g:\copie de bataille navale\game_menu.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"error.h"
+	"sprites.h"
+	"sprites.h"
+	"menu.h"
+	"sdl_tool.h"
+
+1206897298 g:\copie de bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1206699682 g:\copie de bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1207069994 g:\copie de bataille navale\types.h
+
+1208277658 g:\copie de bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"window.h"
+	"grid.h"
+	"error.h"
+
+1206908674 g:\copie de bataille navale\window.h
+	"sdl_tool.h"
+	"grid.h"
+
+1206834866 g:\copie de bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+
+1206897276 g:\copie de bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1206834866 source:g:\copie de bataille navale\grid.c
+	"grid.h"
+
+1208287590 source:g:\copie de bataille navale\main.c
+	"main.h"
+
+1206698046 g:\copie de bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_menu.h"
+
+1208861560 g:\copie de bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+
+1206947914 source:g:\copie de bataille navale\menu.c
+	"menu.h"
+
+1208276526 source:g:\copie de bataille navale\object.c
+
+1206700124 source:g:\copie de bataille navale\rand.c
+	"rand.h"
+
+1208277648 source:g:\copie de bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1206947020 source:g:\copie de bataille navale\sprites.c
+	"sprites.h"
+
+1208278058 source:g:\copie de bataille navale\window.c
+	"window.h"
+
+1206700132 source:f:\bataille navale\error.c
+	"error.h"
+
+1206699678 f:\bataille navale\error.h
+	<SDL/SDL.h>
+
+1210948152 source:f:\bataille navale\game_menu.c
+	"game_menu.h"
+
+1210948332 f:\bataille navale\game_menu.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	"sdl_tool.h"
+
+1206897298 f:\bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1208973180 f:\bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1207069994 f:\bataille navale\types.h
+
+1210363628 f:\bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"window.h"
+	"grid.h"
+	"error.h"
+
+1210948376 f:\bataille navale\window.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sdl_tool.h"
+	"grid.h"
+	"menu.h"
+	"error.h"
+	"sprites.h"
+
+1210945354 f:\bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+
+1206897276 f:\bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1210944468 source:f:\bataille navale\main.c
+	"main.h"
+
+1207070958 f:\bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_menu.h"
+	"game_ia.h"
+
+1210372072 f:\bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1206947914 source:f:\bataille navale\menu.c
+	"menu.h"
+
+1208276526 source:f:\bataille navale\object.c
+
+1206700124 source:f:\bataille navale\rand.c
+	"rand.h"
+
+1208277648 source:f:\bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1208969262 source:f:\bataille navale\sprites.c
+	"sprites.h"
+
+1208278058 source:f:\bataille navale\window.c
+	"window.h"
+
+1210945776 source:f:\bataille navale\grid.c
+	"grid.h"
+
+1210007554 source:f:\bataille navale\historic.c
+	"historic.h"
+
+1209116212 f:\bataille navale\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1210945790 source:f:\bataille navale\game_ia.c
+	"game_ia.h"
+
+1210970292 source:c:\documents and settings\claverie paul\bureau\bataille navale\game_ia.c
+	"game_ia.h"
+
+1209116212 c:\documents and settings\claverie paul\bureau\bataille navale\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1211140480 c:\documents and settings\claverie paul\bureau\bataille navale\config.h
+
+1208276526 source:c:\documents and settings\claverie paul\bureau\bataille navale\object.c
+
+1206700132 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\error.c
+	"error.h"
+
+1211300516 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\error.h
+	<stdio.h>
+	<stdlib.h>
+
+1211367380 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\game_ia.c
+	"game_ia.h"
+
+1211375136 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1211477176 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\types.h
+
+1211291768 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+	"rand.h"
+
+1211374814 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1211479378 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\grid.c
+	"grid.h"
+
+1210007554 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\historic.c
+	"historic.h"
+
+1210372072 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1211478366 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\main.c
+	"main.h"
+
+1211462128 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_ia.h"
+
+1211483248 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1211449028 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"config.h"
+	"grid.h"
+	"error.h"
+
+1211478410 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\config.h
+
+1211374834 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1211462758 c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\window.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"config.h"
+	"sdl_tool.h"
+	"grid.h"
+	"sprites.h"
+	"menu.h"
+	"error.h"
+
+1210970670 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\menu.c
+	"menu.h"
+
+1208276526 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\object.c
+
+1211313578 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\rand.c
+	"rand.h"
+
+1211477276 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1211483674 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\sprites.c
+	"sprites.h"
+
+1211475520 source:c:\documents and settings\claverie paul\bureau\projet 2008\bataille navale\window.c
+	"window.h"
+
+1206700132 source:e:\bataille navale\error.c
+	"error.h"
+
+1211543064 e:\bataille navale\error.h
+	<stdio.h>
+	<stdlib.h>
+
+1211544382 source:e:\bataille navale\game_ia.c
+	"game_ia.h"
+
+1211544154 e:\bataille navale\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1211529688 e:\bataille navale\types.h
+
+1211543112 e:\bataille navale\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+	"rand.h"
+
+1211542836 e:\bataille navale\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1211479378 source:e:\bataille navale\grid.c
+	"grid.h"
+
+1211543960 source:e:\bataille navale\historic.c
+	"historic.h"
+
+1211543250 e:\bataille navale\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1211537492 source:e:\bataille navale\main.c
+	"main.h"
+
+1211533786 e:\bataille navale\main.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<string.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sprites.h"
+	"menu.h"
+	"grid.h"
+	"sdl_tool.h"
+	"window.h"
+	"historic.h"
+	"game_ia.h"
+
+1211542920 e:\bataille navale\sprites.h
+	<stdio.h>
+	<stdbool.h>
+	<SDL/SDL.h>
+	"error.h"
+	"rand.h"
+	"types.h"
+	"sdl_tool.h"
+
+1211538928 e:\bataille navale\sdl_tool.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	"config.h"
+	"grid.h"
+	"error.h"
+
+1211553964 e:\bataille navale\config.h
+
+1211534638 e:\bataille navale\menu.h
+	<SDL/SDL.h>
+	"sdl_tool.h"
+	"types.h"
+	"sprites.h"
+
+1211543298 e:\bataille navale\window.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"config.h"
+	"sdl_tool.h"
+	"grid.h"
+	"sprites.h"
+	"menu.h"
+	"error.h"
+
+1211535042 source:e:\bataille navale\menu.c
+	"menu.h"
+
+1208276526 source:e:\bataille navale\object.c
+
+1211313578 source:e:\bataille navale\rand.c
+	"rand.h"
+
+1211537796 source:e:\bataille navale\sdl_tool.c
+	"sdl_tool.h"
+
+1211542310 source:e:\bataille navale\sprites.c
+	"sprites.h"
+
+1211543848 source:e:\bataille navale\window.c
+	"window.h"
+
+1206696532 source:d:\bdd\_programation\sources\bataille navale\code\error.c
+	"error.h"
+
+1211539464 d:\bdd\_programation\sources\bataille navale\code\error.h
+	<stdio.h>
+	<stdlib.h>
+
+1211540782 source:d:\bdd\_programation\sources\bataille navale\code\game_ia.c
+	"game_ia.h"
+
+1211540554 d:\bdd\_programation\sources\bataille navale\code\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1211526088 d:\bdd\_programation\sources\bataille navale\code\types.h
+
+1211539512 d:\bdd\_programation\sources\bataille navale\code\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+	"rand.h"
+
+1211539236 d:\bdd\_programation\sources\bataille navale\code\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1211475778 source:d:\bdd\_programation\sources\bataille navale\code\grid.c
+	"grid.h"
+
+1211551886 source:d:\bdd\_programation\sources\bataille navale\code\historic.c
+	"historic.h"
+
+1211539650 d:\bdd\_programation\sources\bataille navale\code\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+

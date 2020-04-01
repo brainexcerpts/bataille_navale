@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1211313970 source:c:\documents and settings\claverie paul\bureau\test ia\test\game_ia.c
+	"game_ia.h"
+
+1211308048 c:\documents and settings\claverie paul\bureau\test ia\test\game_ia.h
+	"types.h"
+	"grid.h"
+	"rand.h"
+
+1211296482 c:\documents and settings\claverie paul\bureau\test ia\test\types.h
+
+1211221830 c:\documents and settings\claverie paul\bureau\test ia\test\grid.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"types.h"
+	"error.h"
+	"rand.h"
+
+1211300484 c:\documents and settings\claverie paul\bureau\test ia\test\error.h
+	<stdio.h>
+	<stdlib.h>
+
+1211298902 c:\documents and settings\claverie paul\bureau\test ia\test\rand.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1211223166 source:c:\documents and settings\claverie paul\bureau\test ia\test\grid.c
+	"grid.h"
+
+1211313578 source:c:\documents and settings\claverie paul\bureau\test ia\test\rand.c
+	"rand.h"
+
+1211300428 source:c:\documents and settings\claverie paul\bureau\test ia\test\error.c
+	"error.h"
+
+1211313614 source:c:\documents and settings\claverie paul\bureau\test ia\test\main.c
+	"main.h"
+
+1211300316 c:\documents and settings\claverie paul\bureau\test ia\test\main.h
+	<stdio.h>
+	<stdlib.h>
+	"game_ia.h"
+	"types.h"
+	"grid.h"
+	"rand.h"
+	"error.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1211466276 source:e:\test historic\historic.c
+	"historic.h"
+
+1210372072 e:\test historic\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1211216476 e:\test historic\types.h
+
+1211470266 source:e:\test historic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"historic.h"
+
+1211470266 source:e:\bataille navale\test historic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"historic.h"
+
+1210372072 e:\bataille navale\test historic\historic.h
+	"types.h"
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1211216476 e:\bataille navale\test historic\types.h
+

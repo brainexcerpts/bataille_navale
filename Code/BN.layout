@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="config.h" open="1" top="0" tabpos="3">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="error.c" open="0" top="0" tabpos="10">
+		<Cursor position="22" topLine="0" />
+	</File>
+	<File name="error.h" open="0" top="0" tabpos="10">
+		<Cursor position="173" topLine="0" />
+	</File>
+	<File name="game_ia.c" open="0" top="0" tabpos="8">
+		<Cursor position="6966" topLine="225" />
+	</File>
+	<File name="game_ia.h" open="0" top="0" tabpos="0">
+		<Cursor position="602" topLine="0" />
+	</File>
+	<File name="grid.c" open="0" top="0" tabpos="1">
+		<Cursor position="5984" topLine="308" />
+	</File>
+	<File name="grid.h" open="0" top="0" tabpos="8">
+		<Cursor position="1582" topLine="1" />
+	</File>
+	<File name="historic.c" open="0" top="0" tabpos="4">
+		<Cursor position="1541" topLine="66" />
+	</File>
+	<File name="historic.h" open="0" top="0" tabpos="9">
+		<Cursor position="2669" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="2">
+		<Cursor position="1208" topLine="20" />
+	</File>
+	<File name="main.h" open="1" top="0" tabpos="1">
+		<Cursor position="143" topLine="0" />
+	</File>
+	<File name="menu.c" open="0" top="0" tabpos="8">
+		<Cursor position="708" topLine="0" />
+	</File>
+	<File name="menu.h" open="0" top="0" tabpos="13">
+		<Cursor position="362" topLine="0" />
+	</File>
+	<File name="rand.c" open="0" top="0" tabpos="5">
+		<Cursor position="32" topLine="0" />
+	</File>
+	<File name="rand.h" open="0" top="0" tabpos="7">
+		<Cursor position="401" topLine="0" />
+	</File>
+	<File name="sdl_tool.c" open="1" top="1" tabpos="8">
+		<Cursor position="13674" topLine="572" />
+	</File>
+	<File name="sdl_tool.h" open="0" top="0" tabpos="6">
+		<Cursor position="917" topLine="0" />
+	</File>
+	<File name="sprites.c" open="1" top="0" tabpos="7">
+		<Cursor position="8316" topLine="273" />
+	</File>
+	<File name="sprites.h" open="1" top="0" tabpos="6">
+		<Cursor position="916" topLine="37" />
+	</File>
+	<File name="types.h" open="1" top="0" tabpos="4">
+		<Cursor position="30" topLine="0" />
+	</File>
+	<File name="window.c" open="1" top="0" tabpos="5">
+		<Cursor position="4346" topLine="820" />
+	</File>
+	<File name="window.h" open="0" top="0" tabpos="5">
+		<Cursor position="1802" topLine="76" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,10 @@
+Erreur chargement de l'icône : Couldn't open Data/logo.bmp
+Error, in function draw_menu (game_menu.h) : Couldn't open Data\title.bmp
+
+
+
+
+
+
+
+
